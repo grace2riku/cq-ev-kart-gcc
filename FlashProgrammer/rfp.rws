@@ -1,0 +1,10 @@
+<RfpWorkspace>
+  <ProductVersion>2.05.03.00</ProductVersion>
+  <FormatVersion>2.0</FormatVersion>
+  <WindowMode>0</WindowMode>
+  <ActiveProjectName>rfp</ActiveProjectName>
+  <Name project="rfp">
+    <RelativePath>rfp\rfp.rpj</RelativePath>
+    <ActiveProgramName />
+  </Name>
+</RfpWorkspace>
